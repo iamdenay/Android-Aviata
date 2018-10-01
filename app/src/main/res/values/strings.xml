@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tmdb</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_genres">Genres</string>
+    <string name="title_filter">Filter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
